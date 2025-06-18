@@ -27,7 +27,7 @@ Aynı zamanda Türkçe içerik üreticisi olan fansublara destek sunmayı, bilin
    - Favorileme, İzledim, Daha Sonra İzleyeceğim  
    - Siteye özel puanlama ve yorum sistemi  
    - Kullanıcıya özel profiller ve istatistikler  
-   - ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (%0)
+   - ✅✅✅✅✅✅✅✅⬜⬜ (%80)
 
 4. 🌐 **Fansublar için Masaüstü Uygulaması ve [Nyaa.si](https://nyaa.si) Entegrasyonu**  
    - Nyaa.si ve benzeri kaynaklardan torrent indirme  
