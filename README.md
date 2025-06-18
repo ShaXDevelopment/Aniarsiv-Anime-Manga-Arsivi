@@ -26,7 +26,6 @@ Aynı zamanda Türkçe içerik üreticisi olan fansublara destek sunmayı, bilin
 3. 👤 **Kullanıcı Hesapları**  
    - Favorileme, İzledim, Daha Sonra İzleyeceğim  
    - Siteye özel puanlama ve yorum sistemi  
-   - MyAnimeList senkronizasyonu  
    - Kullanıcıya özel profiller ve istatistikler  
    - ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ (%0)
 
