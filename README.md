@@ -20,7 +20,7 @@ Aynı zamanda Türkçe içerik üreticisi olan fansublara destek sunmayı, bilin
 1. 🔄 **Anime Özetlerini Otomatik Türkçeleştirme**  
    - ✅✅✅✅✅✅✅✅✅✅ (%100)
 
-2. 📚 **Manga & Webtoon Takvimi ve Arşivi**  
+2. 📚 **Manga & Webtoon Arşivi | Anime Takivimi & Arşivi**  
    - ✅✅✅✅✅✅✅✅✅✅ (%100)
 
 3. 👤 **Kullanıcı Hesapları**  
