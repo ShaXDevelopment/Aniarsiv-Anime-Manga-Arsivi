@@ -39,10 +39,16 @@ Aynı zamanda Türkçe içerik üreticisi olan fansublara destek sunmayı, bilin
 
 Proje geliştirme aşamasındadır ve aktif olarak güncellenmektedir.
 
+## İleri Hedeflerimiz.
+
+- Myanimelist'den aldığımız puanlama ve tarzı yapıları kendi sistemimize çevirme ( bunun gerçekleşmesi için elimizde yeterince veri'nin olması gerekiyor yorumlardaki puan sistemi bu yüzden çok önemli )
+- Sitemizin gelişmesine yardımcı olan katkı sağlayan yerler için özel bir sayfa yapımı.
+
 ## Katkı
 
-Bu proje yalnızca kişisel kullanım ve deneyim amaçlı geliştirilmiştir.  
-İleride planlanan özellikler tamamlandığında kaynak kodlar paylaşılabilir.
+Bu proje türkiye'deki anime & manga kültürünü geliştirmek ve izleyenlere veya okuyanlara daha iyi bir deneyim sunmak için geliştirilmektedir. 
+Proje'nin bitiminde kaynak kodları ve diğer bilgiler paylaşılabilir
+
 
 ---
 
